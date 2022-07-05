@@ -1,0 +1,29 @@
+{
+  "name": "discord-hack-warning",
+  "version": "1.0.0",
+  "description": "Redistributes a warning about the \"shame\" scam in the same manner the scam itself is",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arlojay/discord-hack-warning.git"
+  },
+  "keywords": [
+    "hack",
+    "scam",
+    "awareness",
+    "discord"
+  ],
+  "author": "arlojay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arlojay/discord-hack-warning/issues"
+  },
+  "homepage": "https://github.com/arlojay/discord-hack-warning#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "puppeteer": "^15.3.0"
+  }
+}
